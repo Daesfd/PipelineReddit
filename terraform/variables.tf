@@ -3,7 +3,7 @@ locals {
 }
 
 variable "project" {
-  description = "daring-slice-348115"
+  description = "dtc-de-350616"
 }
 
 variable "region" {
